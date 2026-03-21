@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="03. Multi-LevelInheritanceProgram.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Inheritance, Hiding and Overriding\03. Multi-LevelInheritanceProgram.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BankProject\BankProject.csproj" />
+    <ProjectReference Include="..\Encapsulation2\Encapsulation2.csproj" />
+    <ProjectReference Include="..\GoToStatement\GoToStatement.csproj" />
+    <ProjectReference Include="..\InParameterModifier\InParameterModifier.csproj" />
+    <ProjectReference Include="..\MethodOverloading\MethodOverloading.csproj" />
+    <ProjectReference Include="..\Methods And Encapsulation\Encapsulation1.csproj" />
+    <ProjectReference Include="..\NamedArgument\NamedArgument.csproj" />
+    <ProjectReference Include="..\ObjectReferenceAsArgument\ObjectReferenceAsArgument.csproj" />
+    <ProjectReference Include="..\OurParamaterModifier\OutParameterModifier.csproj" />
+    <ProjectReference Include="..\ParameterModifiers\DefaultParameterModifiers.csproj" />
+    <ProjectReference Include="..\RefParameterModifier\RefParameterModifier.csproj" />
+    <ProjectReference Include="..\RefReturns\RefReturns.csproj" />
+    <ProjectReference Include="..\SwitchCase\SwitchCase.csproj" />
+    <ProjectReference Include="..\WhileAndDoWhile\WhileAndDoWhile.csproj" />
+  </ItemGroup>
+
+</Project>

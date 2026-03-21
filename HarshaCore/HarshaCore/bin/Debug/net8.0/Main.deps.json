@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Main/1.0.0": {
+        "dependencies": {
+          "Constructors": "1.0.0",
+          "Encapsulation": "1.0.0",
+          "ParameterModifier": "1.0.0",
+          "Params": "1.0.0",
+          "RefReturn": "1.0.0"
+        },
+        "runtime": {
+          "Main.dll": {}
+        }
+      },
+      "Constructors/1.0.0": {
+        "runtime": {
+          "Constructors.dll": {}
+        }
+      },
+      "Encapsulation/1.0.0": {
+        "runtime": {
+          "Encapsulation.dll": {}
+        }
+      },
+      "ParameterModifier/1.0.0": {
+        "runtime": {
+          "ParameterModifier.dll": {}
+        }
+      },
+      "Params/1.0.0": {
+        "runtime": {
+          "Params.dll": {}
+        }
+      },
+      "RefReturn/1.0.0": {
+        "runtime": {
+          "RefReturn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Constructors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Encapsulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ParameterModifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Params/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RefReturn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

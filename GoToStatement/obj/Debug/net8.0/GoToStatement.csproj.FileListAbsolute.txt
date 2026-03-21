@@ -1,0 +1,11 @@
+C:\Users\raj.kumar\Desktop\GoToStatement\bin\Debug\net8.0\GoToStatement.deps.json
+C:\Users\raj.kumar\Desktop\GoToStatement\bin\Debug\net8.0\GoToStatement.dll
+C:\Users\raj.kumar\Desktop\GoToStatement\bin\Debug\net8.0\GoToStatement.pdb
+C:\Users\raj.kumar\Desktop\GoToStatement\obj\Debug\net8.0\GoToStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\GoToStatement\obj\Debug\net8.0\GoToStatement.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\GoToStatement\obj\Debug\net8.0\GoToStatement.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\GoToStatement\obj\Debug\net8.0\GoToStatement.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\GoToStatement\obj\Debug\net8.0\GoToStatement.dll
+C:\Users\raj.kumar\Desktop\GoToStatement\obj\Debug\net8.0\refint\GoToStatement.dll
+C:\Users\raj.kumar\Desktop\GoToStatement\obj\Debug\net8.0\GoToStatement.pdb
+C:\Users\raj.kumar\Desktop\GoToStatement\obj\Debug\net8.0\ref\GoToStatement.dll

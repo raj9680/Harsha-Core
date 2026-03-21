@@ -1,0 +1,11 @@
+C:\Users\raj.kumar\Desktop\WhileAndDoWhile\bin\Debug\net8.0\WhileAndDoWhile.deps.json
+C:\Users\raj.kumar\Desktop\WhileAndDoWhile\bin\Debug\net8.0\WhileAndDoWhile.dll
+C:\Users\raj.kumar\Desktop\WhileAndDoWhile\bin\Debug\net8.0\WhileAndDoWhile.pdb
+C:\Users\raj.kumar\Desktop\WhileAndDoWhile\obj\Debug\net8.0\WhileAndDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\WhileAndDoWhile\obj\Debug\net8.0\WhileAndDoWhile.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\WhileAndDoWhile\obj\Debug\net8.0\WhileAndDoWhile.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\WhileAndDoWhile\obj\Debug\net8.0\WhileAndDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\WhileAndDoWhile\obj\Debug\net8.0\WhileAndDoWhile.dll
+C:\Users\raj.kumar\Desktop\WhileAndDoWhile\obj\Debug\net8.0\refint\WhileAndDoWhile.dll
+C:\Users\raj.kumar\Desktop\WhileAndDoWhile\obj\Debug\net8.0\WhileAndDoWhile.pdb
+C:\Users\raj.kumar\Desktop\WhileAndDoWhile\obj\Debug\net8.0\ref\WhileAndDoWhile.dll

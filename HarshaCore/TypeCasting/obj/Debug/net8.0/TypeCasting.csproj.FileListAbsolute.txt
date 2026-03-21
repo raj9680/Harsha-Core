@@ -1,0 +1,11 @@
+C:\Users\raj.kumar\Desktop\HarshaCore\TypeCasting\bin\Debug\net8.0\TypeCasting.deps.json
+C:\Users\raj.kumar\Desktop\HarshaCore\TypeCasting\bin\Debug\net8.0\TypeCasting.dll
+C:\Users\raj.kumar\Desktop\HarshaCore\TypeCasting\bin\Debug\net8.0\TypeCasting.pdb
+C:\Users\raj.kumar\Desktop\HarshaCore\TypeCasting\obj\Debug\net8.0\TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HarshaCore\TypeCasting\obj\Debug\net8.0\TypeCasting.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HarshaCore\TypeCasting\obj\Debug\net8.0\TypeCasting.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HarshaCore\TypeCasting\obj\Debug\net8.0\TypeCasting.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HarshaCore\TypeCasting\obj\Debug\net8.0\TypeCasting.dll
+C:\Users\raj.kumar\Desktop\HarshaCore\TypeCasting\obj\Debug\net8.0\refint\TypeCasting.dll
+C:\Users\raj.kumar\Desktop\HarshaCore\TypeCasting\obj\Debug\net8.0\TypeCasting.pdb
+C:\Users\raj.kumar\Desktop\HarshaCore\TypeCasting\obj\Debug\net8.0\ref\TypeCasting.dll

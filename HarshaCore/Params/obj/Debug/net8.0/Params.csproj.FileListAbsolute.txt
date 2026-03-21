@@ -1,0 +1,11 @@
+C:\Users\raj.kumar\Desktop\HarshaCore\Params\bin\Debug\net8.0\Params.deps.json
+C:\Users\raj.kumar\Desktop\HarshaCore\Params\bin\Debug\net8.0\Params.dll
+C:\Users\raj.kumar\Desktop\HarshaCore\Params\bin\Debug\net8.0\Params.pdb
+C:\Users\raj.kumar\Desktop\HarshaCore\Params\obj\Debug\net8.0\Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HarshaCore\Params\obj\Debug\net8.0\Params.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HarshaCore\Params\obj\Debug\net8.0\Params.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HarshaCore\Params\obj\Debug\net8.0\Params.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HarshaCore\Params\obj\Debug\net8.0\Params.dll
+C:\Users\raj.kumar\Desktop\HarshaCore\Params\obj\Debug\net8.0\refint\Params.dll
+C:\Users\raj.kumar\Desktop\HarshaCore\Params\obj\Debug\net8.0\Params.pdb
+C:\Users\raj.kumar\Desktop\HarshaCore\Params\obj\Debug\net8.0\ref\Params.dll

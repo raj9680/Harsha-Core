@@ -1,0 +1,11 @@
+C:\Users\raj.kumar\Desktop\ObjectReferenceAsArgument\bin\Debug\net8.0\ObjectReferenceAsArgument.deps.json
+C:\Users\raj.kumar\Desktop\ObjectReferenceAsArgument\bin\Debug\net8.0\ObjectReferenceAsArgument.dll
+C:\Users\raj.kumar\Desktop\ObjectReferenceAsArgument\bin\Debug\net8.0\ObjectReferenceAsArgument.pdb
+C:\Users\raj.kumar\Desktop\ObjectReferenceAsArgument\obj\Debug\net8.0\ObjectReferenceAsArgument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\ObjectReferenceAsArgument\obj\Debug\net8.0\ObjectReferenceAsArgument.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\ObjectReferenceAsArgument\obj\Debug\net8.0\ObjectReferenceAsArgument.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\ObjectReferenceAsArgument\obj\Debug\net8.0\ObjectReferenceAsArgument.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\ObjectReferenceAsArgument\obj\Debug\net8.0\ObjectReferenceAsArgument.dll
+C:\Users\raj.kumar\Desktop\ObjectReferenceAsArgument\obj\Debug\net8.0\refint\ObjectReferenceAsArgument.dll
+C:\Users\raj.kumar\Desktop\ObjectReferenceAsArgument\obj\Debug\net8.0\ObjectReferenceAsArgument.pdb
+C:\Users\raj.kumar\Desktop\ObjectReferenceAsArgument\obj\Debug\net8.0\ref\ObjectReferenceAsArgument.dll

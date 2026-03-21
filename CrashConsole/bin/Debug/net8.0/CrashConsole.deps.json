@@ -1,0 +1,179 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CrashConsole/1.0.0": {
+        "dependencies": {
+          "BankProject": "1.0.0",
+          "DefaultParameterModifiers": "1.0.0",
+          "Encapsulation1": "1.0.0",
+          "Encapsulation2": "1.0.0",
+          "GoToStatement": "1.0.0",
+          "InParameterModifier": "1.0.0",
+          "MethodOverloading": "1.0.0",
+          "NamedArgument": "1.0.0",
+          "ObjectReferenceAsArgument": "1.0.0",
+          "OutParameterModifier": "1.0.0",
+          "RefParameterModifier": "1.0.0",
+          "RefReturns": "1.0.0",
+          "SwitchCase": "1.0.0",
+          "WhileAndDoWhile": "1.0.0"
+        },
+        "runtime": {
+          "CrashConsole.dll": {}
+        }
+      },
+      "BankProject/1.0.0": {
+        "runtime": {
+          "BankProject.dll": {}
+        }
+      },
+      "DefaultParameterModifiers/1.0.0": {
+        "runtime": {
+          "DefaultParameterModifiers.dll": {}
+        }
+      },
+      "Encapsulation1/1.0.0": {
+        "runtime": {
+          "Encapsulation1.dll": {}
+        }
+      },
+      "Encapsulation2/1.0.0": {
+        "runtime": {
+          "Encapsulation2.dll": {}
+        }
+      },
+      "GoToStatement/1.0.0": {
+        "runtime": {
+          "GoToStatement.dll": {}
+        }
+      },
+      "InParameterModifier/1.0.0": {
+        "runtime": {
+          "InParameterModifier.dll": {}
+        }
+      },
+      "MethodOverloading/1.0.0": {
+        "runtime": {
+          "MethodOverloading.dll": {}
+        }
+      },
+      "NamedArgument/1.0.0": {
+        "runtime": {
+          "NamedArgument.dll": {}
+        }
+      },
+      "ObjectReferenceAsArgument/1.0.0": {
+        "runtime": {
+          "ObjectReferenceAsArgument.dll": {}
+        }
+      },
+      "OutParameterModifier/1.0.0": {
+        "runtime": {
+          "OutParameterModifier.dll": {}
+        }
+      },
+      "RefParameterModifier/1.0.0": {
+        "runtime": {
+          "RefParameterModifier.dll": {}
+        }
+      },
+      "RefReturns/1.0.0": {
+        "runtime": {
+          "RefReturns.dll": {}
+        }
+      },
+      "SwitchCase/1.0.0": {
+        "runtime": {
+          "SwitchCase.dll": {}
+        }
+      },
+      "WhileAndDoWhile/1.0.0": {
+        "runtime": {
+          "WhileAndDoWhile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CrashConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DefaultParameterModifiers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Encapsulation1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Encapsulation2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoToStatement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InParameterModifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MethodOverloading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NamedArgument/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ObjectReferenceAsArgument/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OutParameterModifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RefParameterModifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RefReturns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SwitchCase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WhileAndDoWhile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

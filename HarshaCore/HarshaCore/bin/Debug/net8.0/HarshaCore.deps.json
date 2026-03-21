@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HarshaCore/1.0.0": {
+        "dependencies": {
+          "ClassLibrary1": "1.0.0",
+          "FieldExample": "1.0.0"
+        },
+        "runtime": {
+          "HarshaCore.dll": {}
+        }
+      },
+      "ClassLibrary1/1.0.0": {
+        "runtime": {
+          "ClassLibrary1.dll": {}
+        }
+      },
+      "FieldExample/1.0.0": {
+        "runtime": {
+          "FieldExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HarshaCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FieldExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

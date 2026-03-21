@@ -1,0 +1,173 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Constructors/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Constructors.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Constructors.dll": {}
+        }
+      },
+      "Encapsulation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Encapsulation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Encapsulation.dll": {}
+        }
+      },
+      "ParameterModifier/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ParameterModifier.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ParameterModifier.dll": {}
+        }
+      },
+      "Params/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Params.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Params.dll": {}
+        }
+      },
+      "RefReturn/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/RefReturn.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RefReturn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Constructors/1.0.0": {
+      "type": "project",
+      "path": "../TypeCasting/Constructors.csproj",
+      "msbuildProject": "../TypeCasting/Constructors.csproj"
+    },
+    "Encapsulation/1.0.0": {
+      "type": "project",
+      "path": "../Encapsulation/Encapsulation.csproj",
+      "msbuildProject": "../Encapsulation/Encapsulation.csproj"
+    },
+    "ParameterModifier/1.0.0": {
+      "type": "project",
+      "path": "../ParameterModifier/ParameterModifier.csproj",
+      "msbuildProject": "../ParameterModifier/ParameterModifier.csproj"
+    },
+    "Params/1.0.0": {
+      "type": "project",
+      "path": "../Params/Params.csproj",
+      "msbuildProject": "../Params/Params.csproj"
+    },
+    "RefReturn/1.0.0": {
+      "type": "project",
+      "path": "../RefReturn/RefReturn.csproj",
+      "msbuildProject": "../RefReturn/RefReturn.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Constructors >= 1.0.0",
+      "Encapsulation >= 1.0.0",
+      "ParameterModifier >= 1.0.0",
+      "Params >= 1.0.0",
+      "RefReturn >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\HarshaCore\\HarshaCore\\Main.csproj",
+      "projectName": "Main",
+      "projectPath": "C:\\Users\\raj.kumar\\Desktop\\HarshaCore\\HarshaCore\\Main.csproj",
+      "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\raj.kumar\\Desktop\\HarshaCore\\HarshaCore\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\raj.kumar\\Desktop\\HarshaCore\\Encapsulation\\Encapsulation.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\HarshaCore\\Encapsulation\\Encapsulation.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\HarshaCore\\ParameterModifier\\ParameterModifier.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\HarshaCore\\ParameterModifier\\ParameterModifier.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\HarshaCore\\Params\\Params.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\HarshaCore\\Params\\Params.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\HarshaCore\\RefReturn\\RefReturn.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\HarshaCore\\RefReturn\\RefReturn.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\HarshaCore\\TypeCasting\\Constructors.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\HarshaCore\\TypeCasting\\Constructors.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

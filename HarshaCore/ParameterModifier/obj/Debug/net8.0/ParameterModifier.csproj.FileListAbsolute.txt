@@ -1,0 +1,11 @@
+C:\Users\raj.kumar\Desktop\HarshaCore\ParameterModifier\bin\Debug\net8.0\ParameterModifier.deps.json
+C:\Users\raj.kumar\Desktop\HarshaCore\ParameterModifier\bin\Debug\net8.0\ParameterModifier.dll
+C:\Users\raj.kumar\Desktop\HarshaCore\ParameterModifier\bin\Debug\net8.0\ParameterModifier.pdb
+C:\Users\raj.kumar\Desktop\HarshaCore\ParameterModifier\obj\Debug\net8.0\ParameterModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\HarshaCore\ParameterModifier\obj\Debug\net8.0\ParameterModifier.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\HarshaCore\ParameterModifier\obj\Debug\net8.0\ParameterModifier.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\HarshaCore\ParameterModifier\obj\Debug\net8.0\ParameterModifier.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\HarshaCore\ParameterModifier\obj\Debug\net8.0\ParameterModifier.dll
+C:\Users\raj.kumar\Desktop\HarshaCore\ParameterModifier\obj\Debug\net8.0\refint\ParameterModifier.dll
+C:\Users\raj.kumar\Desktop\HarshaCore\ParameterModifier\obj\Debug\net8.0\ParameterModifier.pdb
+C:\Users\raj.kumar\Desktop\HarshaCore\ParameterModifier\obj\Debug\net8.0\ref\ParameterModifier.dll

@@ -1,0 +1,11 @@
+C:\Users\raj.kumar\Desktop\NamedArgument\bin\Debug\net8.0\NamedArgument.deps.json
+C:\Users\raj.kumar\Desktop\NamedArgument\bin\Debug\net8.0\NamedArgument.dll
+C:\Users\raj.kumar\Desktop\NamedArgument\bin\Debug\net8.0\NamedArgument.pdb
+C:\Users\raj.kumar\Desktop\NamedArgument\obj\Debug\net8.0\NamedArgument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\NamedArgument\obj\Debug\net8.0\NamedArgument.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\NamedArgument\obj\Debug\net8.0\NamedArgument.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\NamedArgument\obj\Debug\net8.0\NamedArgument.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\NamedArgument\obj\Debug\net8.0\NamedArgument.dll
+C:\Users\raj.kumar\Desktop\NamedArgument\obj\Debug\net8.0\refint\NamedArgument.dll
+C:\Users\raj.kumar\Desktop\NamedArgument\obj\Debug\net8.0\NamedArgument.pdb
+C:\Users\raj.kumar\Desktop\NamedArgument\obj\Debug\net8.0\ref\NamedArgument.dll

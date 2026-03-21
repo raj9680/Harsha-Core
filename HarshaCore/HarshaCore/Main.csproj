@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Encapsulation\Encapsulation.csproj" />
+    <ProjectReference Include="..\ParameterModifier\ParameterModifier.csproj" />
+    <ProjectReference Include="..\Params\Params.csproj" />
+    <ProjectReference Include="..\RefReturn\RefReturn.csproj" />
+    <ProjectReference Include="..\TypeCasting\Constructors.csproj" />
+  </ItemGroup>
+
+</Project>

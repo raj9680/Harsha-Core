@@ -1,0 +1,966 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\raj.kumar\\Desktop\\CrashConsole\\CrashConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\raj.kumar\\Desktop\\BankProject\\BankProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\BankProject\\BankProject.csproj",
+        "projectName": "BankProject",
+        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\BankProject\\BankProject.csproj",
+        "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\BankProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raj.kumar\\Desktop\\CrashConsole\\CrashConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\CrashConsole\\CrashConsole.csproj",
+        "projectName": "CrashConsole",
+        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\CrashConsole\\CrashConsole.csproj",
+        "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\CrashConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\raj.kumar\\Desktop\\BankProject\\BankProject.csproj": {
+                "projectPath": "C:\\Users\\raj.kumar\\Desktop\\BankProject\\BankProject.csproj"
+              },
+              "C:\\Users\\raj.kumar\\Desktop\\Encapsulation2\\Encapsulation2.csproj": {
+                "projectPath": "C:\\Users\\raj.kumar\\Desktop\\Encapsulation2\\Encapsulation2.csproj"
+              },
+              "C:\\Users\\raj.kumar\\Desktop\\GoToStatement\\GoToStatement.csproj": {
+                "projectPath": "C:\\Users\\raj.kumar\\Desktop\\GoToStatement\\GoToStatement.csproj"
+              },
+              "C:\\Users\\raj.kumar\\Desktop\\InParameterModifier\\InParameterModifier.csproj": {
+                "projectPath": "C:\\Users\\raj.kumar\\Desktop\\InParameterModifier\\InParameterModifier.csproj"
+              },
+              "C:\\Users\\raj.kumar\\Desktop\\MethodOverloading\\MethodOverloading.csproj": {
+                "projectPath": "C:\\Users\\raj.kumar\\Desktop\\MethodOverloading\\MethodOverloading.csproj"
+              },
+              "C:\\Users\\raj.kumar\\Desktop\\Methods And Encapsulation\\Encapsulation1.csproj": {
+                "projectPath": "C:\\Users\\raj.kumar\\Desktop\\Methods And Encapsulation\\Encapsulation1.csproj"
+              },
+              "C:\\Users\\raj.kumar\\Desktop\\NamedArgument\\NamedArgument.csproj": {
+                "projectPath": "C:\\Users\\raj.kumar\\Desktop\\NamedArgument\\NamedArgument.csproj"
+              },
+              "C:\\Users\\raj.kumar\\Desktop\\ObjectReferenceAsArgument\\ObjectReferenceAsArgument.csproj": {
+                "projectPath": "C:\\Users\\raj.kumar\\Desktop\\ObjectReferenceAsArgument\\ObjectReferenceAsArgument.csproj"
+              },
+              "C:\\Users\\raj.kumar\\Desktop\\OurParamaterModifier\\OutParameterModifier.csproj": {
+                "projectPath": "C:\\Users\\raj.kumar\\Desktop\\OurParamaterModifier\\OutParameterModifier.csproj"
+              },
+              "C:\\Users\\raj.kumar\\Desktop\\ParameterModifiers\\DefaultParameterModifiers.csproj": {
+                "projectPath": "C:\\Users\\raj.kumar\\Desktop\\ParameterModifiers\\DefaultParameterModifiers.csproj"
+              },
+              "C:\\Users\\raj.kumar\\Desktop\\RefParameterModifier\\RefParameterModifier.csproj": {
+                "projectPath": "C:\\Users\\raj.kumar\\Desktop\\RefParameterModifier\\RefParameterModifier.csproj"
+              },
+              "C:\\Users\\raj.kumar\\Desktop\\RefReturns\\RefReturns.csproj": {
+                "projectPath": "C:\\Users\\raj.kumar\\Desktop\\RefReturns\\RefReturns.csproj"
+              },
+              "C:\\Users\\raj.kumar\\Desktop\\SwitchCase\\SwitchCase.csproj": {
+                "projectPath": "C:\\Users\\raj.kumar\\Desktop\\SwitchCase\\SwitchCase.csproj"
+              },
+              "C:\\Users\\raj.kumar\\Desktop\\WhileAndDoWhile\\WhileAndDoWhile.csproj": {
+                "projectPath": "C:\\Users\\raj.kumar\\Desktop\\WhileAndDoWhile\\WhileAndDoWhile.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raj.kumar\\Desktop\\Encapsulation2\\Encapsulation2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\Encapsulation2\\Encapsulation2.csproj",
+        "projectName": "Encapsulation2",
+        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\Encapsulation2\\Encapsulation2.csproj",
+        "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\Encapsulation2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raj.kumar\\Desktop\\GoToStatement\\GoToStatement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\GoToStatement\\GoToStatement.csproj",
+        "projectName": "GoToStatement",
+        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\GoToStatement\\GoToStatement.csproj",
+        "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\GoToStatement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raj.kumar\\Desktop\\InParameterModifier\\InParameterModifier.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\InParameterModifier\\InParameterModifier.csproj",
+        "projectName": "InParameterModifier",
+        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\InParameterModifier\\InParameterModifier.csproj",
+        "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\InParameterModifier\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raj.kumar\\Desktop\\MethodOverloading\\MethodOverloading.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\MethodOverloading\\MethodOverloading.csproj",
+        "projectName": "MethodOverloading",
+        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\MethodOverloading\\MethodOverloading.csproj",
+        "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\MethodOverloading\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raj.kumar\\Desktop\\Methods And Encapsulation\\Encapsulation1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\Methods And Encapsulation\\Encapsulation1.csproj",
+        "projectName": "Encapsulation1",
+        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\Methods And Encapsulation\\Encapsulation1.csproj",
+        "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\Methods And Encapsulation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raj.kumar\\Desktop\\NamedArgument\\NamedArgument.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\NamedArgument\\NamedArgument.csproj",
+        "projectName": "NamedArgument",
+        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\NamedArgument\\NamedArgument.csproj",
+        "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\NamedArgument\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raj.kumar\\Desktop\\ObjectReferenceAsArgument\\ObjectReferenceAsArgument.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\ObjectReferenceAsArgument\\ObjectReferenceAsArgument.csproj",
+        "projectName": "ObjectReferenceAsArgument",
+        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\ObjectReferenceAsArgument\\ObjectReferenceAsArgument.csproj",
+        "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\ObjectReferenceAsArgument\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raj.kumar\\Desktop\\OurParamaterModifier\\OutParameterModifier.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\OurParamaterModifier\\OutParameterModifier.csproj",
+        "projectName": "OutParameterModifier",
+        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\OurParamaterModifier\\OutParameterModifier.csproj",
+        "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\OurParamaterModifier\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raj.kumar\\Desktop\\ParameterModifiers\\DefaultParameterModifiers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\ParameterModifiers\\DefaultParameterModifiers.csproj",
+        "projectName": "DefaultParameterModifiers",
+        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\ParameterModifiers\\DefaultParameterModifiers.csproj",
+        "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\ParameterModifiers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raj.kumar\\Desktop\\RefParameterModifier\\RefParameterModifier.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\RefParameterModifier\\RefParameterModifier.csproj",
+        "projectName": "RefParameterModifier",
+        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\RefParameterModifier\\RefParameterModifier.csproj",
+        "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\RefParameterModifier\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raj.kumar\\Desktop\\RefReturns\\RefReturns.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\RefReturns\\RefReturns.csproj",
+        "projectName": "RefReturns",
+        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\RefReturns\\RefReturns.csproj",
+        "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\RefReturns\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raj.kumar\\Desktop\\SwitchCase\\SwitchCase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\SwitchCase\\SwitchCase.csproj",
+        "projectName": "SwitchCase",
+        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\SwitchCase\\SwitchCase.csproj",
+        "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\SwitchCase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\raj.kumar\\Desktop\\WhileAndDoWhile\\WhileAndDoWhile.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\WhileAndDoWhile\\WhileAndDoWhile.csproj",
+        "projectName": "WhileAndDoWhile",
+        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\WhileAndDoWhile\\WhileAndDoWhile.csproj",
+        "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\WhileAndDoWhile\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

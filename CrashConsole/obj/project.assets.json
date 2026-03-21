@@ -1,0 +1,344 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "BankProject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BankProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BankProject.dll": {}
+        }
+      },
+      "DefaultParameterModifiers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DefaultParameterModifiers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DefaultParameterModifiers.dll": {}
+        }
+      },
+      "Encapsulation1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Encapsulation1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Encapsulation1.dll": {}
+        }
+      },
+      "Encapsulation2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Encapsulation2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Encapsulation2.dll": {}
+        }
+      },
+      "GoToStatement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/GoToStatement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GoToStatement.dll": {}
+        }
+      },
+      "InParameterModifier/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/InParameterModifier.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InParameterModifier.dll": {}
+        }
+      },
+      "MethodOverloading/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MethodOverloading.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MethodOverloading.dll": {}
+        }
+      },
+      "NamedArgument/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/NamedArgument.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NamedArgument.dll": {}
+        }
+      },
+      "ObjectReferenceAsArgument/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ObjectReferenceAsArgument.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ObjectReferenceAsArgument.dll": {}
+        }
+      },
+      "OutParameterModifier/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/OutParameterModifier.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OutParameterModifier.dll": {}
+        }
+      },
+      "RefParameterModifier/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/RefParameterModifier.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RefParameterModifier.dll": {}
+        }
+      },
+      "RefReturns/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/RefReturns.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RefReturns.dll": {}
+        }
+      },
+      "SwitchCase/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SwitchCase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SwitchCase.dll": {}
+        }
+      },
+      "WhileAndDoWhile/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/WhileAndDoWhile.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WhileAndDoWhile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankProject/1.0.0": {
+      "type": "project",
+      "path": "../BankProject/BankProject.csproj",
+      "msbuildProject": "../BankProject/BankProject.csproj"
+    },
+    "DefaultParameterModifiers/1.0.0": {
+      "type": "project",
+      "path": "../ParameterModifiers/DefaultParameterModifiers.csproj",
+      "msbuildProject": "../ParameterModifiers/DefaultParameterModifiers.csproj"
+    },
+    "Encapsulation1/1.0.0": {
+      "type": "project",
+      "path": "../Methods And Encapsulation/Encapsulation1.csproj",
+      "msbuildProject": "../Methods And Encapsulation/Encapsulation1.csproj"
+    },
+    "Encapsulation2/1.0.0": {
+      "type": "project",
+      "path": "../Encapsulation2/Encapsulation2.csproj",
+      "msbuildProject": "../Encapsulation2/Encapsulation2.csproj"
+    },
+    "GoToStatement/1.0.0": {
+      "type": "project",
+      "path": "../GoToStatement/GoToStatement.csproj",
+      "msbuildProject": "../GoToStatement/GoToStatement.csproj"
+    },
+    "InParameterModifier/1.0.0": {
+      "type": "project",
+      "path": "../InParameterModifier/InParameterModifier.csproj",
+      "msbuildProject": "../InParameterModifier/InParameterModifier.csproj"
+    },
+    "MethodOverloading/1.0.0": {
+      "type": "project",
+      "path": "../MethodOverloading/MethodOverloading.csproj",
+      "msbuildProject": "../MethodOverloading/MethodOverloading.csproj"
+    },
+    "NamedArgument/1.0.0": {
+      "type": "project",
+      "path": "../NamedArgument/NamedArgument.csproj",
+      "msbuildProject": "../NamedArgument/NamedArgument.csproj"
+    },
+    "ObjectReferenceAsArgument/1.0.0": {
+      "type": "project",
+      "path": "../ObjectReferenceAsArgument/ObjectReferenceAsArgument.csproj",
+      "msbuildProject": "../ObjectReferenceAsArgument/ObjectReferenceAsArgument.csproj"
+    },
+    "OutParameterModifier/1.0.0": {
+      "type": "project",
+      "path": "../OurParamaterModifier/OutParameterModifier.csproj",
+      "msbuildProject": "../OurParamaterModifier/OutParameterModifier.csproj"
+    },
+    "RefParameterModifier/1.0.0": {
+      "type": "project",
+      "path": "../RefParameterModifier/RefParameterModifier.csproj",
+      "msbuildProject": "../RefParameterModifier/RefParameterModifier.csproj"
+    },
+    "RefReturns/1.0.0": {
+      "type": "project",
+      "path": "../RefReturns/RefReturns.csproj",
+      "msbuildProject": "../RefReturns/RefReturns.csproj"
+    },
+    "SwitchCase/1.0.0": {
+      "type": "project",
+      "path": "../SwitchCase/SwitchCase.csproj",
+      "msbuildProject": "../SwitchCase/SwitchCase.csproj"
+    },
+    "WhileAndDoWhile/1.0.0": {
+      "type": "project",
+      "path": "../WhileAndDoWhile/WhileAndDoWhile.csproj",
+      "msbuildProject": "../WhileAndDoWhile/WhileAndDoWhile.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "BankProject >= 1.0.0",
+      "DefaultParameterModifiers >= 1.0.0",
+      "Encapsulation1 >= 1.0.0",
+      "Encapsulation2 >= 1.0.0",
+      "GoToStatement >= 1.0.0",
+      "InParameterModifier >= 1.0.0",
+      "MethodOverloading >= 1.0.0",
+      "NamedArgument >= 1.0.0",
+      "ObjectReferenceAsArgument >= 1.0.0",
+      "OutParameterModifier >= 1.0.0",
+      "RefParameterModifier >= 1.0.0",
+      "RefReturns >= 1.0.0",
+      "SwitchCase >= 1.0.0",
+      "WhileAndDoWhile >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\CrashConsole\\CrashConsole.csproj",
+      "projectName": "CrashConsole",
+      "projectPath": "C:\\Users\\raj.kumar\\Desktop\\CrashConsole\\CrashConsole.csproj",
+      "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\raj.kumar\\Desktop\\CrashConsole\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\raj.kumar\\Desktop\\BankProject\\BankProject.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\BankProject\\BankProject.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\Encapsulation2\\Encapsulation2.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\Encapsulation2\\Encapsulation2.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\GoToStatement\\GoToStatement.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\GoToStatement\\GoToStatement.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\InParameterModifier\\InParameterModifier.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\InParameterModifier\\InParameterModifier.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\MethodOverloading\\MethodOverloading.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\MethodOverloading\\MethodOverloading.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\Methods And Encapsulation\\Encapsulation1.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\Methods And Encapsulation\\Encapsulation1.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\NamedArgument\\NamedArgument.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\NamedArgument\\NamedArgument.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\ObjectReferenceAsArgument\\ObjectReferenceAsArgument.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\ObjectReferenceAsArgument\\ObjectReferenceAsArgument.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\OurParamaterModifier\\OutParameterModifier.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\OurParamaterModifier\\OutParameterModifier.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\ParameterModifiers\\DefaultParameterModifiers.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\ParameterModifiers\\DefaultParameterModifiers.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\RefParameterModifier\\RefParameterModifier.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\RefParameterModifier\\RefParameterModifier.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\RefReturns\\RefReturns.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\RefReturns\\RefReturns.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\SwitchCase\\SwitchCase.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\SwitchCase\\SwitchCase.csproj"
+            },
+            "C:\\Users\\raj.kumar\\Desktop\\WhileAndDoWhile\\WhileAndDoWhile.csproj": {
+              "projectPath": "C:\\Users\\raj.kumar\\Desktop\\WhileAndDoWhile\\WhileAndDoWhile.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

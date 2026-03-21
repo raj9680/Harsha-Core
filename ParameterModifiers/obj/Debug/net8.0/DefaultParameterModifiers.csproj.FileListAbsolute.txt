@@ -1,0 +1,11 @@
+C:\Users\raj.kumar\Desktop\ParameterModifiers\bin\Debug\net8.0\DefaultParameterModifiers.deps.json
+C:\Users\raj.kumar\Desktop\ParameterModifiers\bin\Debug\net8.0\DefaultParameterModifiers.dll
+C:\Users\raj.kumar\Desktop\ParameterModifiers\bin\Debug\net8.0\DefaultParameterModifiers.pdb
+C:\Users\raj.kumar\Desktop\ParameterModifiers\obj\Debug\net8.0\DefaultParameterModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raj.kumar\Desktop\ParameterModifiers\obj\Debug\net8.0\DefaultParameterModifiers.AssemblyInfoInputs.cache
+C:\Users\raj.kumar\Desktop\ParameterModifiers\obj\Debug\net8.0\DefaultParameterModifiers.AssemblyInfo.cs
+C:\Users\raj.kumar\Desktop\ParameterModifiers\obj\Debug\net8.0\DefaultParameterModifiers.csproj.CoreCompileInputs.cache
+C:\Users\raj.kumar\Desktop\ParameterModifiers\obj\Debug\net8.0\DefaultParameterModifiers.dll
+C:\Users\raj.kumar\Desktop\ParameterModifiers\obj\Debug\net8.0\refint\DefaultParameterModifiers.dll
+C:\Users\raj.kumar\Desktop\ParameterModifiers\obj\Debug\net8.0\DefaultParameterModifiers.pdb
+C:\Users\raj.kumar\Desktop\ParameterModifiers\obj\Debug\net8.0\ref\DefaultParameterModifiers.dll
