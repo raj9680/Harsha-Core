@@ -11,7 +11,7 @@
     // calling
     MethodName<datatype>(valueHere);
 */
-namespace CrashConsole.Generics
+namespace CrashConsole.Genericss
 {
     public class Employee
     {
@@ -41,9 +41,9 @@ namespace CrashConsole.Generics
         }
     }
 
-    public class Program
+    public class Program__
     {
-        public static void Main()
+        public static void Main__()
         {
             Sample s1 = new Sample();
 
